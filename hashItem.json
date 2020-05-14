@@ -1,0 +1,57 @@
+
+  {
+    
+  "HashItem": 
+  [
+  1,
+  2, 
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+  ],
+  "boolean": true, 
+  "hashHMACSHA512": "hashHMACSHA512", 
+  "null": null, 
+  "nextHash": "nextHash",
+  "HashAttributes": {
+  "a": "HashItemId",
+  "c": "blockpair"
+  }, 
+  "HashTimestamp": "HashTimestamp",  
+  "HashAttributes": "HashAttributes",
+  "Percentage": "Percentage",
+  "blockId" : "blockId", 
+  "Hash1" : "Hash1",  
+  "Hash2" : "Hash2",
+  "HashItem" : "HashItem",
+  "HashSet" : "HashSet", 
+  "RIPEMD160": "RIPEMD160",
+  "InfuraKey" : "InfuraAPIKey",
+  "FirebaseAPIKey": "FirebaseAPIKey",
+  "FirebaseProjectID" : "FirebaseProjectID",
+  "ProjectName": "ProjectName",
+  "APKKey": "APKKey",
+  "OAuthKey": "OAuthKey",
+  "OAuthSecret": "OAuthSecret",
+  "String": "InfuraAPISecret"
+  }
