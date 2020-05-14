@@ -119,15 +119,1446 @@ using RestClient.Net;
 using Microsoft.DiaSymReader.Native;
 using Autofac.WebApi;
 using Microsoft.AspNet.SignalR.Client;
-
-
-
-
 namespace GhostSec
 {
-
     public class GhostSec_Shell 
     {
-           
-    }
+	
+		// Class Object Initializor and Method Struct
+	public System.Runtime.Loader() autorun() = new public System.Runtime.Loader();
+		public autorun() : System.Runtime.Loader(){
+		
+		this.InitializeComponent();
+		new public this.runtime(int id).InitializeComponent(){
+		
+		
+		
+			// Autorun Loader Runtime Provider
+  public static IHostBuilder CreateHostBuilder(string[] args) =>
+    Host.CreateDefaultBuilder(args)
+        .ConfigureLogging(logging =>
+        {
+            logging.ClearProviders();
+            logging.AddConsole();
+            logging.InitializeComponent();
+            logging.LogLevel(0);
+            logging.LogInformation(*).ToCtxString();
+            
+            
+            
+        })
+        .ConfigureWebHostDefaults(webBuilder =>
+        {
+            webBuilder.UseStartup<Startup>();
+        });
+  public static IHostBuilder CreateHostBuilder(string[] args) =>
+    Host.CreateDefaultBuilder(args)
+        .ConfigureLogging(logging =>
+        {
+            logging.ClearProviders();
+            logging.AddConsole();
+        })
+        .ConfigureWebHostDefaults(webBuilder =>
+        {
+            webBuilder.UseStartup<Startup>();
+        });
+public class AboutModel : PageModel
+ {
+    private readonly ILogger _logger;
+    public AboutModel(ILogger<AboutModel> logger)
+      {
+        _logger = logger;
+         
+          [HttpGet]
+          public IActionResult runtime(int id)
+          {
+           var routeInfo = ControllerContext.ToCtxString(id);
+             _logger.Log(LogLevel.Information, MyLogEvents.TestItem, routeInfo);
+             _logger.LogInformation(MyLogEvents.TestItem, routeInfo);
+            return ControllerContext.MyDisplayRouteInfo();
+           }
+        
+         
+      }
+    public string Message { get; set; }
+    public void OnGet()
+      {
+        Message = $"About page visited at {DateTime.UtcNow.ToLongTimeString()}";
+[HttpGet]
+public IActionResult runtime(int id)
+{
+    var routeInfo = ControllerContext.ToCtxString(id);
+    _logger.Log(LogLevel.Information, MyLogEvents.TestItem, routeInfo);
+    _logger.LogInformation(MyLogEvents.TestItem, routeInfo);
+    return ControllerContext.MyDisplayRouteInfo();
 }
+        
+        _logger.LogInformation(Message);
+        
+        _logger.LogInformation(GhostSec_Bridge.this.ToCtxString(this.AppContext(GhostSec_Bridge(*)));
+        this.return(getValue(*));
+        
+  
+      }
+			
+		
+		
+		public System.Runtime.InteropServices() interOp() = new public System.Runtime.InteropServices();
+		public interOp() : System.Runtime.InteropServices(){
+        
+        public System.AppContext ghostAPIcontext() = new public System.AppContext(GhostSec_Bridge);
+        public ghostAPIcontext() : System.AppContext(this)
+        {
+        
+        
+        
+        
+        public Common.Logging() log() = new public Common.Logging();
+        public log() : Common.Logging(){
+        	
+        	// Logfile Logcat Operations
+        	
+         }
+        // Asynchronous Runtime Provider amd Code Method Object
+		this.loadAsync(*);
+		this.InitializeComponent(*);
+		
+		public GhostSec_Bridge(this.set(), this.get()) : Gh∆stSec_Bridge(){
+			
+			// Internal App Specific Bridge Combininational API Set and Get Access Model
+			this.InitializeComponent(*);
+			
+	    	}
+		
+		public GhostSec_Bridge()
+	   	{
+			this.InitializeComponent();
+			public this setter() : Gh∆stSec_Bridge(){
+				
+				
+				// Set Object Definition and Product Component Provider
+				
+			public System.Buffer buffer() = new public System.Buffer();
+			public void buffer() : System.Buffer(){
+				// Buffer Instance Definition Startoff Call
+				
+			  }
+			  
+		    public System.Security.Cryptography() Sec0() = new public System.Security.Cryptography();
+		    public Sec0() : System.Security.Cryptography(){
+		    	
+		    	// Certificate Security Base Locale Sector
+		    	
+		    	public Sec0.X509Certificates() sec509() = new public Sec0.X509Certificates();
+		    	private sec509() : Sec0.X509Certificates(){
+		    		
+		    		//X509 Access Certificate Routing
+		    		
+		    	}
+		    	public System.Security.Cryptography.X509Certificates() x509() = new public Sec0.X509Certificates(private sec509());
+		    	public Sec0.OpenSsl() secSSL() = new public Sec0.OpenSsl();
+		    	private secSSL() : Sec0.OpenSsl(){
+		    		
+		    		// SSL Sign Provider and Capable System Handshake Security
+		    	}
+		    	public System.Security.Cryptography.OpenSsl() ssl() = new public Sec0.OpenSsl(private secSSL());
+		    	public Sec0.Pkcs() secPKCS() = new public Sec0.Pkcs();
+		    	private secPKCS() : Sec0.Pkcs(){
+		    		
+		    		// PKCS Certificate Output Provider
+		    	}
+		    	public System.Security.Cryptography.Pkcs() pkcs() = new public Sec0.Pkcs(private secPKCS());
+		    	
+		    	public x509(private sec509()){
+		    		private sec509() : Sec0.X509Certificates(){
+		    			// Public Object X509 Reciever
+		    			return(this.getValue());
+		    		}
+		    	}
+		    	public pkcs(private secPKCS()){
+		    		private secPKCS() : Sec0.Pkcs(){
+		    			// Public Object PKCS Output Reciever
+		    			return(this.getValue());
+		    		}
+		    	}
+		    	public ssl(private secSSL()){
+		    		private secSSL() : Sec0.OpenSsl(){
+		    			// Public Object SSL Provider
+		    			return(this.getValue());
+		    		}
+		    	}
+		      }
+		      
+		    public System.IO.Socket() ioSocks() = new public System.IO.Socket();
+		    public ioSocks() : System.IO.Socket(){
+		    	
+		    	// IO Port and TCP Server Config Basis
+		    	
+		    	public IPAddress ipAddr : public IPAddress ip(*).value();
+		    	public System.IO.Socket.Port Port = new System.IO.Socket.Port(Int32);
+		    	public string publicPortage = "443";
+		    	public int publicPortI = new int publicPortage.toInt(*);
+		    	public Int32 publicPort = new Int32 publicPortI.toInt32(*);
+		    	public Port = Int32(publicPort.value());
+		    	
+		    	public System.Net.WebSockets() sysIO() = new public System.Net.WebSockets(IPAddress ipAddr, Int32 Port);
+		    	public sysIO(this.ipAddr , this.Port) : System.Net.WebSockets(){
+		    		
+		    		// Socket IO Configuration For WebServer Access Usage
+                    // TCP Locale Provision
+      
+		    	}
+		    	
+		    	public void buffer((0, 256), this.return[byte[*]], 1000, true) : System.Buffer(0, byte[], 1000, true){
+		    		
+		    		// Timing Buffer and WebRelay Buffer for Encoded Data Bytes
+		    		
+		    	}
+		    	
+		    	public IPAddress ip = new IPAddress("198",":","162",":","0",":","1" , "\n");
+		    	
+		    	// IP Handler Annotations and Build Out
+		    	
+		    	
+		      }
+		      public System.Net.Http.Server() server() = new public System.Net.Http.Server();
+		      public server() : System.Net.Http.Server(){
+		      	
+		      	// TCP Web Server Service .Net Protocols
+		      	
+		      	public Cake.Http() cake() = new public Cake.Http();
+		      	public cake() : Cake.Http(){
+		      		
+		      		// Cake HTTP Client API Provider
+		      		
+		      	}
+		      	
+		      }
+		      
+		    public System.IO.FileSystem() fs() = new public System.IO.FileSystem();
+		    public fs() : System.IO.FileSystem(){
+		    	
+		    	// Virtual Filesystem Directory Composite Access
+		    	
+		    	public System.Memory() memcached() = new public System.Memory();
+		    	public memcached() : System.Memory(){
+		    		
+		    	// System Memory Cache Management	
+		    		
+		    	}
+		      }
+		      
+		    public blockchain() bcRich() = new public blockchain();
+		    public bcRich() : blockchain(){
+		    	
+		    	public Cryptography.EDCSA.Secp256k1() edcsa() = Cryptography.EDCSA.Secp256k1();
+		    	public edcsa() : Cryptography.EDCSA.Secp256k1(){
+		    		
+		    		// EDCSA SECP256K1 BlockChain Algorith
+		    		
+		    	}
+		    	
+		    	
+		    	// Blockchain Usage Startoff
+		    	
+		    	public Core.Framework.Blockchain() cfb() = new public Core.Framework.Blockchain();
+		    	public cfb() : Core.Framework.Blockchain(){
+		    		
+		    		// Component Input for Base Depenedency Build
+		    		
+		    	}
+		    	
+		    	public BlockchainAPI() bcAPI() = new public BlockchainAPI();
+		    	public bcAPI() : BlockchainAPI(){
+		    		
+		    		// Base Blockchain API Concatenation Sector and Buildline
+		    		// Main Bridge Sector Blockchain Architype
+		    		public stellar-dotnet-sdk() stellar() = new stellar-dotnet-sdk();
+		    		public stellar() : stellar-dotnet-sdk(){
+		    			
+		    			// Stellar Blockchaining Object Library SDK Method
+		    			
+		    			public stellar-dotnet-sdk-xdr() stellarXDR() = new public stellar-dotnet-sdk-xdr();
+		    			public stellarXDR() : stellar-dotnet-sdk-xdr(){
+		    				
+		    	        // Stellar XDR System Library Usage Locale
+		    				
+		    				
+		    			}
+		    			
+		    			
+		    		 public Credits.Blockchain() creditCBC() = new public Credits.Blockchain();
+		    	     public creditCBC() : Credits.Blockchain(){
+		    	     	
+		    	     	// Credit System For Blockchain
+		    	     	
+		    	     	public Mastercard-Core() mastercard() = new public Mastercard-Core();
+		    	     	public mastercard() : Master-Card(){
+		    	     		
+		    	     		// Mastercard Blockchain Support and Library Code Handlers
+		    	     		
+		    	     		public Mastercard-BlockchainB2bxb() mstrcrdBlockchain() = new public Mastercard-BlockchainB2bxb();
+		    	     		public mstrcrdBlockchain() : Mastercard-BlockchainB2bxb(){
+		    	     			
+		    	     			// Mastercard Blockchain Internal Devicing
+		    	     			
+		    	     		}
+		    	     		
+		    	     	}
+		    	     	public CryptoCurrency.Net() cryCurr() = new public CryptoCurrency.Net();
+		    	     	public Cryptocurrency() cryptoCY() = new public Cryptocurrency();
+		    	        public Cryptocurrency.Blockchain() cryptoBLKCHN() = new public Cryptocurrency.Blockchain();
+		    	        public cryCurr() : CryptoCurrency.Net(){
+		    	        	
+		    	           // .Net Crypto Marketplace
+		    	        	
+		    	        }
+		    	        public cryptoCY() : Cryptocurrency(){
+		    	        
+		    	           // Crypto Marketplace	
+		    	        	
+		    	        	
+		    	        }
+		    	        public cryptoBLKCHN() : Cryptocurrency.Blockchain(){
+		    	        	
+		    	           // Crypto Marketplace Blockchain Implementation	
+		    	        	public Antlr() antlr() = new public Antlr();
+		    	        	public antlr() : Antlr(){
+		    	        		
+		    	        		// Antlr System Processor Tasker
+		    	        		
+		    	        	}
+		    	        }
+		    	        
+		    	        public eos-sharp() eos() = new public eos-sharp();
+		    	        public eos() : eos-sharp(){
+		    	        	
+		    	        	// EOS Crypto & CryptoMarketplace
+		    	        	
+		    	        }
+		    	        public ChainPay() cpay() = new public ChainPay();
+		    	        public cpay() : ChainPay(){
+		    	        	
+		    	        	// ChainPay Blockchain Payments
+		    	        }
+		    	     }
+		    	
+		    		}
+		    	}
+		    	
+		    	public NStratis() stratum() = new public NStratis();
+		    	public NStratis.API.Server() stratisAPI() = new public NStratis.API.Server();
+		    	public stratisAPI() : NStratis.API.Server(){
+		    		
+		    		// Locale for Stratis API Start Off Code for Server Init
+		    		
+		    		
+		    		public stratum() : NStratis(){
+		    			
+		    			// Chorreographed Stratis Mining System For OmniPuppyXx Block Chain Maintanence
+		    			
+		    			
+		    		}
+		    		
+		    		
+		    	}
+		      }
+		      
+		      // MultiLevel Array Chorrespondance for XElement Detail Parsing For XML (Translational for JSON)
+		      public string[] xAtt[0,1,2,3,4] = new public string[0,1,2,3,4];
+		      public string[] XElement[:] = new public string[this:string xAtt[0,1,2,3,4]];
+		      public string[] hostString[::XAtt[0,1,2,3,4]] = new public hostString[XElement:XAttribute:XElement[0:0],XElement[0:1],XElement[0:2],XElement[0:3],XElement[0:4]];
+		      public string[] apiCollect[] = new public string[public string[] hostString];
+		      public System.Xml.ReaderWriter() xSR() = new public System.Xml.ReaderWriter();
+		      public xSR() : System.Xml.ReaderWriter(){
+		      	
+		      	// XML Sector for Bridge Manifestation
+		      	public Json.Net() rpc() = new public Json.Net(){
+		      		
+		      		// Json Plotmap Translation and Usage from XAtt-hoststring-ApiArray
+		      		
+		      	}
+		      }
+		      public RestSharp() restAPI() = new public RestSharp();
+		      public restAPI() : RestSharp(){
+		      	
+		      	// API Configuration for GET Response WebDev RESTAPI Client Hosting
+		      	
+		      }
+		      
+		      public System.Data.SqlClient() sqlDirect() = new public System.Data.SqlClient();
+		      public sqlDirect() : System.Data.SqlClient(){
+		      	
+		      	// SQL Database Provider for data build architype and Storage Hosting/Parsing
+		      	
+		      	
+		      }
+		      
+		      public RestClient.Net() apiClient() = new public RestClient.Net();
+		      public apiClient() : RestClient.Net(){
+		      	
+		      	// API Usage and Access Client for Direct Convergence
+		      	
+		      }
+		      
+		      public Bridge.Core() bridgeCore() = new public Bridge.Core();
+		      public Bridge.Html5() bridgeWeb() = new public Bridge.Html5();
+		      public Bridge.WebGL() bridgeGL() = new public Bridge.WebGL();
+		      public bridgeCore() : Bridge.Core(){
+		      	
+		      	// Server Bridge Component Provider
+		      	
+		      	public bridgeWeb() : Bridge.Html5(){
+		      		
+		       	 // Server Bridge HTTP HTML5 Base Provider
+		      		
+		      		public bridgeGL() : Bridge.WebGL(){
+		      			
+		      		// Server Bridge WebGL Provider/Handler	
+		      		
+		      		public WaveEngine.WebGL() weGL() = new public WaveEngine.WebGL(){
+		      			
+		      			public WaveEngine.Common() weComm() = new public WaveEngine.Common();
+		      			public WaveEngine.Mathematics weMath() = new public WaveEngine.Mathematics();
+		      			public weComm() : WaveEngine.Common(){
+		      				
+		      				// Wave Engine Logic Dynamics Engine for AI and Graphical Usage
+		      				
+		      				public weMath() : WaveEngine.Mathematics(){
+		      					
+		      				   // Wave Engine Physics Math and Formula Base for Moduli	
+		      					
+		      				}
+		      				
+		      				
+		      			}
+		      		}
+		      		public WaveSharper.WebGL() wsGL() = new public WaveSharper.WebGL(){
+		      			
+		      			// WebGL Connect For Wave Mechanics
+		      			
+		      		}
+		      		public WebGlDotNet() glNet() = new public WebGlDotNet(){
+		      			
+		      			// .Net WebGL Base Dependency Library
+		      			
+		      		}
+		      		public AForge() aforge() = new public AForge(){
+		      			
+		      			// AForge Visual Dynamics Renderer
+		      			
+		      		}
+		      		public Autofac.WebApi() atfWeb() = new public Autofac.WebApi(){
+		      			
+		      			// Code Source Schema PreFicta WebAPI
+		      			
+		      		}
+		      		public ApiAi() aai() = new public ApiAi(){
+		      			
+		      			// API Base for AI Inclusion System
+		      			
+		      		}
+		      		public System.Numerics.Vectors() numver() = new public System.Numerics.Vectors(){
+		      			
+		      			// Vector Graph Plot Concurrency
+		      			
+		      		}
+		      		public DeepAI.Client() deepCli() = new public DeepAI.Client(){
+		      			
+		      			// AI Client for Automation Routines and Learned Behavior Build
+		      		}
+		      		public BabylonJS() babyjs() = new public BabylonJS(){
+		      			
+		      			// JS Library Toolset for Use in CPU GPU Heavy Implementations
+		      		}
+		      		public Pixi.js() pixi() = new public Pixi.js(){
+		      			
+		      			// Pixi JS AI System for Access Personality Growth
+		      			
+		      		}
+		      		public Bridge.Pixi() bripix() = new public Bridge.Pixi(){
+		      			
+		      			// Bridge Configuration for Pixi Engine
+		      		}
+		      		public DuoCode() duocode() = new public DuoCode(){
+		      			
+		      			// xPlatform Code Source Integration
+		      			
+		      		}
+		      		public holojs() hollojs() = new public holojs(){
+		      			
+		      			// Holo Game System NPC AI Config
+		      			
+		      		}
+		      		public Durandal.AI() durandal() = new public Durandal.AI(){
+		      			
+		      			// Linguistics Engine and Conversational Dynamics
+		      		}
+		      		public Durandal.AI.Ontology() ontology() = new public Durandal.AI.Ontology(){
+		      			
+		      			// Linguistic Fluency Base and Flow Schema
+		      		}
+		      		public Fable.Browser.Svg() fableSvg() = new public Fable.Browser.Svg(){
+		      			
+		      			// Fable Game Engine Browser Plugin Renderer
+		      			
+		      		}
+		      		
+		      	  }
+		      	}
+		      	
+		      }
+		      
+		      // Return Variable Chorrespondance
+			}
+			public GhostSec_Bridge.setter() set() = new public Gh∆stSec_Bridge.setter(*);	
+			public this getter() : GhostSec_Bridge(){
+				
+				public xSR() : System.Xml.ReaderWriter(){
+				
+					this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+				// System XML Result Return Handler
+					
+				}
+				public restAPI() : RestSharp(){
+				
+				// System RestAPI Result Return Handler	
+					
+        	this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+				}
+				public sqlDirect() : System.Data.SqlClient(){
+				
+				// System SQLdb Result Return Interface Handler	
+					this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+				}
+				
+				public bcRich.cfb() : bcRich(public Core.Framework.Blockchain cfb()){
+					
+		     	// System Blockchain Result Interface Automation Return Handler/Parser
+		      this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+					
+					
+				}
+				public bcRich.bcAPI() : bcRich(public BlockchainAPI bcAPI()){
+					
+				// Blockchain API System Return Data Result Handler Interface Runtime	
+		      this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+				
+				
+				
+				}
+				
+				// Return Object Argument Result Handler and Runtime
+			}
+			public GhostSec_Bridge.getter() get() = new public Gh∆stSec_Bridge.getter(*);
+			
+			// Object Model Getter Interface Return Close Object
+			// Interim To Public Output String Thread Provider Return 
+			// Output to Main Synchronous and Shared Async
+			
+	      	this.InitializeComponent();
+          this.get(*);
+				  this.return(get(this));
+			
+			
+			
+	      	}
+        }
+		
+	  	}
+		
+		
+      // Output to Shared Synchronous Public Artifice and Asynchronous System Chorrespondance
+      
+	      	
+          this.get(*);
+				  this.return(get(this));
+	  	}
+		
+		this.return(*);
+		
+ 	  }
+ 	  
+    [HttpGet]
+    public IActionResult runtime(int id)
+    {
+    var routeInfo = ControllerContext.ToCtxString(id);
+    _logger.Log(LogLevel.Information, MyLogEvents.TestItem, routeInfo);
+    _logger.LogInformation(MyLogEvents.TestItem, routeInfo);
+    return ControllerContext.MyDisplayRouteInfo();
+    }
+    
+  }
+      
+      this.close();
+      this.dispose();
+      
+      
+      
+    }
+      
+  }
+    
+}
+//+src=GhostNativ_OmniPuppyXx_BlockchainConnect.cs
+//+src=GhostSec_API.cs
+//+src=GhostSec_Assault.cs
+//+src=GhostSec_Autorun.cs
+//+src=GhostSec_Bridge.xaml.cs
+//+src=GhostSec_CLI.cs
+//+src=GhostSec_Config.cs
+//+src=GhostSec_Dialog.cs
+//+src=GhostSec_GUICompat_Bridge.xaml.cs
+//+src=GhostSec_GhostNativ.cs
+//+src=GhostSec_ML_Connect.cs
+//+src=GhostSec_NativGhost_CrossCompiler.cs
+//+src=GhostSec_NativGhost_CrossCompiler_Connect.cs
+//+src=GhostSec_OmniPuppyXx_Connect.cs
+//+src=GhostSec_Runtime.cs
+//+src=GhostSec_Server.cs
+//+src=GhostSec_Shell.cs
+//+src=GhostSec_WebService.cs
+//+src=Gh∆stNativ_OmniPuppyXx_BlockchainConnect.cs
+//+src=Gh∆stSec_API.cs
+//+src=Gh∆stSec_App.cs
+//+src=Gh∆stSec_Assault.cs
+//+src=Gh∆stSec_Autorun.cs
+//+src=Gh∆stSec_Bridge.xaml
+//+src=Gh∆stSec_Bridge.xaml.d.cs
+//+src=Gh∆stSec_Bridge.xaml.cs
+//+src=Gh∆stSec_CLI.cs
+//+src=Gh∆stSec_Config.cs
+//+src=Gh∆stSec_Dialog.cs
+//+src=Gh∆stSec_GUICompat_Bridge.xaml
+//+src=Gh∆stSec_GUICompat_Bridge.xaml.d.cs
+//+src=Gh∆stSec_GUICompat_Bridge.xaml.cs
+//+src=Gh∆stSec_GhostNativ.cs
+//+src=Gh∆stSec_ML_Connect.cs
+//+src=Gh∆stSec_NativGhost_CrossCompiler.cs
+//+src=Gh∆stSec_NativGhost_CrossCompiler_Connect.cs
+//+src=Gh∆stSec_OmniPuppyXx_Connect.cs
+//+src=Gh∆stSec_Runtime.cs
+//+src=Gh∆stSec_WebService.cs
+//+src=Program.cs
+//+src=GhostSecShell-README.md.txt
+//+src=objectmodelsProgram.cs
+//+src=GhostSec_Bridge.xaml
+//+src=GhostSec_Bridge.xaml.d.cs
+//+src=GhostSec_GUICompat_Bridge.xaml
+//+src=GhostSec_GUICompat_Bridge.xaml.d.cs
+//+src=Migrations/20180725163407_Initial.Designer.cs
+//+src=Migrations/20180725163407_Initial.cs
+//+src=Migrations/20180725164356_EmailLengthIncrease.Designer.cs
+//+src=Migrations/20180725164356_EmailLengthIncrease.cs
+//+src=Migrations/20180725173018_CustomerLastNameIndex.Designer.cs
+//+src=Migrations/20180725173018_CustomerLastNameIndex.cs
+//+src=Migrations/20180725200257_SalesPeopleGroups.Designer.cs
+//+src=Migrations/20180725200257_SalesPeopleGroups.cs
+//+src=Migrations/HPlusSportsContextModelSnapshot.cs
+//+src=Models/Customer.cs
+//+src=Models/HPlusSportsContext.cs
+//+src=Models/Order.cs
+//+src=Models/OrderItem.cs
+//+src=Models/PerishableProduct.cs
+//+src=Models/Product.cs
+//+src=Models/SalesGroup.cs
+//+src=Models/Salesperson.cs
+//+src=Models/SqliteDBContext.cs
+//+src=packages/Microsoft.CSharp.4.3.0/ThirdPartyNotices.txt
+//+src=packages/Microsoft.CSharp.4.3.0/dotnet_library_license.txt
+//+src=packages/Microsoft.NETCore.Platforms.1.1.0/ThirdPartyNotices.txt
+//+src=packages/Microsoft.NETCore.Platforms.1.1.0/dotnet_library_license.txt
+//+src=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/ThirdPartyNotices.txt
+//+src=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/dotnet_library_license.txt
+//+src=packages/NETStandard.Library.2.0.0-preview1-25301-01/ThirdPartyNotices.txt
+//+src=packages/NETStandard.Library.2.0.0-preview1-25301-01/dotnet_library_license.txt
+//+src=packages/System.Collections.4.0.11/ThirdPartyNotices.txt
+//+src=packages/System.Collections.4.0.11/dotnet_library_license.txt
+//+src=packages/System.Collections.Immutable.1.3.1/ThirdPartyNotices.txt
+//+src=packages/System.Collections.Immutable.1.3.1/dotnet_library_license.txt
+//+src=packages/System.ComponentModel.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.ComponentModel.4.3.0/dotnet_library_license.txt
+//+src=packages/System.ComponentModel.Annotations.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.ComponentModel.Annotations.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Data.Common.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Data.Common.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Diagnostics.Debug.4.0.11/ThirdPartyNotices.txt
+//+src=packages/System.Diagnostics.Debug.4.0.11/dotnet_library_license.txt
+//+src=packages/System.Diagnostics.DiagnosticSource.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Diagnostics.DiagnosticSource.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Data.SqlClient.4.8.1/useSharedDesignerContext.txt
+//+src=packages/System.Data.SqlClient.4.8.1/version.txt
+//+src=packages/Microsoft.NETCore.Platforms.2.0.0/useSharedDesignerContext.txt
+//+src=packages/Microsoft.NETCore.Platforms.2.0.0/version.txt
+//+src=packages/Microsoft.NETCore.App.2.0.0/Microsoft.NETCore.App.versions.txt
+//+src=packages/System.Buffers.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Buffers.4.4.0/version.txt
+//+src=packages/System.ComponentModel.Annotations.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.ComponentModel.Annotations.4.4.0/version.txt
+//+src=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/version.txt
+//+src=packages/System.Security.Cryptography.Xml.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Security.Cryptography.Xml.4.4.0/version.txt
+//+src=packages/System.Security.Principal.Windows.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Security.Principal.Windows.4.4.0/version.txt
+//+src=packages/System.Security.AccessControl.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Security.AccessControl.4.4.0/version.txt
+//+src=packages/Microsoft.Win32.Registry.4.4.0/useSharedDesignerContext.txt
+//+src=packages/Microsoft.Win32.Registry.4.4.0/version.txt
+//+src=packages/System.Text.Encodings.Web.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Text.Encodings.Web.4.4.0/version.txt
+//+src=packages/System.Threading.Tasks.Extensions.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Threading.Tasks.Extensions.4.3.0/dotnet_library_license.txt
+//+src=packages/Microsoft.CSharp.4.5.0/useSharedDesignerContext.txt
+//+src=packages/Microsoft.CSharp.4.5.0/version.txt
+//+src=packages/System.Collections.Immutable.1.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Collections.Immutable.1.4.0/version.txt
+//+src=packages/System.Collections.NonGeneric.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Collections.NonGeneric.4.3.0/dotnet_library_license.txt
+//+src=packages/System.ComponentModel.Primitives.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.ComponentModel.Primitives.4.3.0/dotnet_library_license.txt
+//+src=packages/System.ComponentModel.TypeConverter.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.ComponentModel.TypeConverter.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Diagnostics.FileVersionInfo.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Diagnostics.FileVersionInfo.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Diagnostics.Process.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Diagnostics.Process.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Diagnostics.TraceSource.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Diagnostics.TraceSource.4.3.0/dotnet_library_license.txt
+//+src=packages/System.IO.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.IO.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Linq.Expressions.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Linq.Expressions.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Buffers.4.5.0/useSharedDesignerContext.txt
+//+src=packages/System.Buffers.4.5.0/version.txt
+//+src=packages/System.Net.WebSockets.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Net.WebSockets.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt
+//+src=packages/System.Numerics.Vectors.4.4.0/version.txt
+//+src=packages/System.Runtime.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Runtime.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Memory.4.5.3/useSharedDesignerContext.txt
+//+src=packages/System.Memory.4.5.3/version.txt
+//+src=packages/System.Security.Cryptography.Algorithms.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Security.Cryptography.Algorithms.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Security.Cryptography.X509Certificates.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Security.Cryptography.X509Certificates.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Net.Http.4.3.4/ThirdPartyNotices.txt
+//+src=packages/System.Net.Http.4.3.4/dotnet_library_license.txt
+//+src=packages/System.Security.Principal.Windows.4.6.0/useSharedDesignerContext.txt
+//+src=packages/System.Security.Principal.Windows.4.6.0/version.txt
+//+src=packages/System.Security.AccessControl.4.6.0/useSharedDesignerContext.txt
+//+src=packages/System.Security.AccessControl.4.6.0/version.txt
+//+src=packages/System.Threading.Tasks.Dataflow.4.9.0/useSharedDesignerContext.txt
+//+src=packages/System.Threading.Tasks.Dataflow.4.9.0/version.txt
+//+src=packages/System.Threading.Tasks.Extensions.4.5.3/useSharedDesignerContext.txt
+//+src=packages/System.Threading.Tasks.Extensions.4.5.3/version.txt
+//+src=packages/System.IO.Pipelines.4.7.0/useSharedDesignerContext.txt
+//+src=packages/System.IO.Pipelines.4.7.0/version.txt
+//+src=packages/System.Collections.Immutable.1.5.0/useSharedDesignerContext.txt
+//+src=packages/System.Collections.Immutable.1.5.0/version.txt
+//+src=packages/System.Reflection.Emit.4.6.0/useSharedDesignerContext.txt
+//+src=packages/System.Reflection.Emit.4.6.0/version.txt
+//+src=packages/System.Reflection.Emit.Lightweight.4.6.0/useSharedDesignerContext.txt
+//+src=packages/System.Reflection.Emit.Lightweight.4.6.0/version.txt
+//+src=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/useSharedDesignerContext.txt
+//+src=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/version.txt
+//+src=packages/System.Security.Cryptography.Encoding.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Security.Cryptography.Encoding.4.3.0/dotnet_library_license.txt
+//+src=packages/System.Security.Cryptography.Primitives.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Security.Cryptography.Primitives.4.3.0/dotnet_library_license.txt
+//+src=packages/Microsoft.Win32.Registry.4.6.0/useSharedDesignerContext.txt
+//+src=packages/Microsoft.Win32.Registry.4.6.0/version.txt
+//+src=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/useSharedDesignerContext.txt
+//+src=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/version.txt
+//+src=packages/System.ValueTuple.4.5.0/useSharedDesignerContext.txt
+//+src=packages/System.ValueTuple.4.5.0/version.txt
+//+src=packages/System.Runtime.Serialization.Json.4.3.0/ThirdPartyNotices.txt
+//+src=packages/System.Runtime.Serialization.Json.4.3.0/dotnet_library_license.txt
+//+src=Migrations/SqliteDB/20180725215111_Initial.Designer.cs
+//+src=Migrations/SqliteDB/20180725215111_Initial.cs
+//+src=Migrations/SqliteDB/SqliteDBContextModelSnapshot.cs
+//+src=BeginIO/Beam.Client/App.cshtml
+//+src=BeginIO/Beam.Client/Program.cs
+//+src=BeginIO/Beam.Client/Startup.cs
+//+src=BeginIO/Beam.Client/_ViewImports.cshtml
+//+src=BeginIO/Beam.Data/BeamContext.cs
+//+src=BeginIO/Beam.Data/Configure.cs
+//+src=BeginIO/Beam.Server/Program.cs
+//+src=BeginIO/Beam.Server/Startup.cs
+//+src=BeginIO/Beam.Shared/Frequency.cs
+//+src=BeginIO/Beam.Shared/Prism.cs
+//+src=BeginIO/Beam.Shared/Ray.cs
+//+src=BeginIO/Beam.Shared/User.cs
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/Microsoft.DotNet.PlatformAbstractions.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/Microsoft.Extensions.DependencyModel.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/Microsoft.Packaging.Tools.Tasks.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/Newtonsoft.Json.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/System.Collections.Immutable.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/System.Reflection.Metadata.dll
+//+src=BeginIO/Beam.Client/Pages/Card.cshtml
+//+src=BeginIO/Beam.Client/Pages/FrequencyList.cshtml
+//+src=BeginIO/Beam.Client/Pages/Index.cshtml
+//+src=BeginIO/Beam.Client/Pages/RayInput.cshtml
+//+src=BeginIO/Beam.Client/Pages/RayItem.cshtml
+//+src=BeginIO/Beam.Client/Pages/RayList.cshtml
+//+src=BeginIO/Beam.Client/Pages/Settings.cshtml
+//+src=BeginIO/Beam.Client/Pages/User.cshtml
+//+src=BeginIO/Beam.Client/Pages/_ViewImports.cshtml
+//+src=BeginIO/Beam.Client/Services/BeamApiService.cs
+//+src=BeginIO/Beam.Client/Services/DataService.cs
+//+src=BeginIO/Beam.Client/Shared/MainLayout.cshtml
+//+src=BeginIO/Beam.Client/Shared/NavPanel.cshtml
+//+src=BeginIO/Beam.Data/Migrations/20180612032510_InitialCreate.Designer.cs
+//+src=BeginIO/Beam.Data/Migrations/20180612032510_InitialCreate.cs
+//+src=BeginIO/Beam.Data/Migrations/BeamContextModelSnapshot.cs
+//+src=BeginIO/Beam.Server/Controllers/FrequencyController.cs
+//+src=BeginIO/Beam.Server/Controllers/PrismController.cs
+//+src=BeginIO/Beam.Server/Controllers/RayController.cs
+//+src=BeginIO/Beam.Server/Controllers/UserController.cs
+//+src=BeginIO/Beam.Server/Mappers/FrequencyMapper.cs
+//+src=BeginIO/Beam.Server/Mappers/PrismMapper.cs
+//+src=BeginIO/Beam.Server/Mappers/RayMapper.cs
+//+src=BeginIO/Beam.Server/Mappers/UserMapper.cs
+//+ref=packages/Microsoft.CSharp.4.3.0/lib/netcore50/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.3.0/lib/netstandard1.3/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.3.0/ref/netcore50/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.3.0/ref/netstandard1.0/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/Microsoft.DotNet.PlatformAbstractions.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/Microsoft.Extensions.DependencyModel.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/Microsoft.Packaging.Tools.Tasks.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/Newtonsoft.Json.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/System.Collections.Immutable.dll
+//+ref=packages/Microsoft.Packaging.Tools.1.0.0-preview1-25301-01/build/desktop/System.Reflection.Metadata.dll
+//+ref=packages/Microsoft.Extensions.Logging.Abstractions.2.0.0-preview1-final/lib/netstandard1.1/Microsoft.Extensions.Logging.Abstractions.dll
+//+ref=packages/System.Collections.4.0.11/ref/netcore50/System.Collections.dll
+//+ref=packages/System.Collections.4.0.11/ref/netstandard1.0/System.Collections.dll
+//+ref=packages/System.Collections.4.0.11/ref/netstandard1.3/System.Collections.dll
+//+ref=packages/System.Collections.Immutable.1.3.1/lib/netstandard1.0/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.3.1/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll
+//+ref=packages/System.ComponentModel.4.3.0/lib/netcore50/System.ComponentModel.dll
+//+ref=packages/System.ComponentModel.4.3.0/lib/netstandard1.3/System.ComponentModel.dll
+//+ref=packages/System.ComponentModel.4.3.0/ref/netcore50/System.ComponentModel.dll
+//+ref=packages/System.ComponentModel.4.3.0/ref/netstandard1.0/System.ComponentModel.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.Abstractions.2.0.0-preview1-final/lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.2.0.0-preview1-final/lib/netstandard1.1/Microsoft.Extensions.DependencyInjection.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/lib/net461/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/lib/netcore50/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/lib/netstandard1.4/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/ref/net461/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/ref/netcore50/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/ref/netstandard1.1/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/ref/netstandard1.3/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.3.0/ref/netstandard1.4/System.ComponentModel.Annotations.dll
+//+ref=packages/System.Data.Common.4.3.0/lib/net451/System.Data.Common.dll
+//+ref=packages/System.Data.Common.4.3.0/lib/netstandard1.2/System.Data.Common.dll
+//+ref=packages/System.Data.Common.4.3.0/lib/portable-net451+win8+wp8+wpa81/System.Data.Common.dll
+//+ref=packages/System.Data.Common.4.3.0/ref/net451/System.Data.Common.dll
+//+ref=packages/System.Data.Common.4.3.0/ref/netstandard1.2/System.Data.Common.dll
+//+ref=packages/System.Data.Common.4.3.0/ref/portable-net451+win8+wp8+wpa81/System.Data.Common.dll
+//+ref=packages/System.Diagnostics.Debug.4.0.11/ref/netcore50/System.Diagnostics.Debug.dll
+//+ref=packages/System.Diagnostics.Debug.4.0.11/ref/netstandard1.0/System.Diagnostics.Debug.dll
+//+ref=packages/System.Diagnostics.Debug.4.0.11/ref/netstandard1.3/System.Diagnostics.Debug.dll
+//+ref=packages/System.Diagnostics.DiagnosticSource.4.3.0/lib/net46/System.Diagnostics.DiagnosticSource.dll
+//+ref=packages/System.Diagnostics.DiagnosticSource.4.3.0/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll
+//+ref=packages/System.Diagnostics.DiagnosticSource.4.3.0/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll
+//+ref=packages/System.Diagnostics.DiagnosticSource.4.3.0/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll
+//+ref=packages/System.Interactive.Async.3.1.1/lib/net45/System.Interactive.Async.dll
+//+ref=packages/System.Interactive.Async.3.1.1/lib/net46/System.Interactive.Async.dll
+//+ref=packages/System.Interactive.Async.3.1.1/lib/netstandard1.0/System.Interactive.Async.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/net451/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/net46/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/net461/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/netcoreapp2.1/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/netstandard1.2/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/netstandard1.3/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/lib/netstandard2.0/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/net451/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/net46/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/net461/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/netcoreapp2.1/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/netstandard1.2/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/netstandard1.3/System.Data.SqlClient.dll
+//+ref=packages/System.Data.SqlClient.4.8.1/ref/netstandard2.0/System.Data.SqlClient.dll
+//+ref=packages/Microsoft.AspNetCore.Cryptography.Internal.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+//+ref=packages/Microsoft.AspNetCore.Cryptography.KeyDerivation.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+//+ref=packages/Microsoft.AspNetCore.DataProtection.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.Hosting.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.Logging.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.ObjectPool.2.0.0/lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll
+//+src=packages/Microsoft.NETCore.App.2.0.0/build/netcoreapp2.0/Microsoft.NETCore.App.PlatformManifest.txt
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/Microsoft.VisualBasic.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/Microsoft.Win32.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.AppContext.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Buffers.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Collections.Concurrent.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Collections.Immutable.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Collections.NonGeneric.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Collections.Specialized.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Collections.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.Annotations.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.Composition.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.DataAnnotations.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.EventBasedAsync.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.TypeConverter.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ComponentModel.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Configuration.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Console.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Core.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Data.Common.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Data.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.Contracts.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.Debug.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.DiagnosticSource.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.FileVersionInfo.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.Process.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.StackTrace.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.TextWriterTraceListener.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.Tools.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.TraceSource.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Diagnostics.Tracing.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Drawing.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Drawing.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Dynamic.Runtime.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Globalization.Calendars.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Globalization.Extensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Globalization.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.Compression.FileSystem.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.Compression.ZipFile.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.Compression.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.FileSystem.DriveInfo.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.FileSystem.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.FileSystem.Watcher.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.FileSystem.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.IsolatedStorage.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.MemoryMappedFiles.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.Pipes.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.UnmanagedMemoryStream.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.IO.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Linq.Expressions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Linq.Parallel.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Linq.Queryable.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Linq.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Http.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.HttpListener.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.ServicePoint.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Sockets.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.WebClient.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.WebHeaderCollection.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.WebProxy.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ObjectModel.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Resources.ResourceManager.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Resources.Writer.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.CompilerServices.VisualC.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Extensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.InteropServices.WindowsRuntime.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.InteropServices.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Serialization.Json.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Claims.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Cryptography.Csp.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Cryptography.Encoding.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.SecureString.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Text.Encoding.Extensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Tasks.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Tasks.Extensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Tasks.Parallel.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Thread.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.ThreadPool.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Transactions.Local.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ValueTuple.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.ReaderWriter.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.XDocument.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.XPath.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.XmlDocument.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.XmlSerializer.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/WindowsBase.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/netstandard.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Mail.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.NameResolution.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.NetworkInformation.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Ping.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Requests.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.Security.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.WebSockets.Client.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Net.WebSockets.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Numerics.Vectors.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Numerics.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.DispatchProxy.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Emit.ILGeneration.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Emit.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Extensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.Metadata.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Reflection.TypeExtensions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Resources.Reader.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Handles.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.InteropServices.RuntimeInformation.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Loader.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Numerics.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Serialization.Formatters.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Serialization.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Serialization.Xml.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.Serialization.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Runtime.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Principal.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Cryptography.Primitives.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Security.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ServiceModel.Web.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.ServiceProcess.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Text.Encoding.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Text.RegularExpressions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Overlapped.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Tasks.Dataflow.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Threading.Timer.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Transactions.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Web.HttpUtility.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Web.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Windows.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.Linq.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.Serialization.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.XPath.XDocument.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.Xml.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/System.dll
+//+ref=packages/Microsoft.NETCore.App.2.0.0/ref/netcoreapp2.0/mscorlib.dll
+//+ref=packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.dll
+//+ref=packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll
+//+ref=packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.dll
+//+ref=packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/lib/net461/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/lib/netcore50/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/lib/netstandard1.4/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/lib/netstandard2.0/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/net461/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/netcore50/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/netstandard1.1/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/netstandard1.3/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/netstandard1.4/System.ComponentModel.Annotations.dll
+//+ref=packages/System.ComponentModel.Annotations.4.4.0/ref/netstandard2.0/System.ComponentModel.Annotations.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.4.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/Microsoft.Extensions.Primitives.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Primitives.dll
+//+ref=packages/Microsoft.AspNetCore.Http.Features.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll
+//+ref=packages/Microsoft.Extensions.Configuration.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll
+//+ref=packages/Microsoft.AspNetCore.Hosting.Server.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.FileProviders.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.Options.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Options.dll
+//+ref=packages/Npgsql.3.2.5/lib/net45/Npgsql.dll
+//+ref=packages/Npgsql.3.2.5/lib/net451/Npgsql.dll
+//+ref=packages/Npgsql.3.2.5/lib/netstandard1.3/Npgsql.dll
+//+ref=packages/Npgsql.3.2.5/lib/netstandard2.0/Npgsql.dll
+//+ref=packages/Microsoft.Extensions.Logging.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Logging.dll
+//+ref=packages/Microsoft.Extensions.Identity.Core.2.0.0/lib/netstandard2.0/Microsoft.Extensions.Identity.Core.dll
+//+ref=packages/Microsoft.Net.Http.Headers.2.0.0/lib/netstandard2.0/Microsoft.Net.Http.Headers.dll
+//+ref=packages/System.Security.Cryptography.Xml.4.4.0/lib/net461/System.Security.Cryptography.Xml.dll
+//+ref=packages/System.Security.Cryptography.Xml.4.4.0/lib/netstandard2.0/System.Security.Cryptography.Xml.dll
+//+ref=packages/System.Security.Cryptography.Xml.4.4.0/ref/net461/System.Security.Cryptography.Xml.dll
+//+ref=packages/System.Security.Cryptography.Xml.4.4.0/ref/netstandard2.0/System.Security.Cryptography.Xml.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/lib/net46/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/lib/net461/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/lib/netstandard1.3/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/lib/netstandard2.0/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/ref/net46/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/ref/net461/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/ref/netstandard1.3/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.4.0/ref/netstandard2.0/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/lib/net46/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/lib/net461/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/lib/netstandard1.3/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/lib/netstandard2.0/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/ref/net46/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/ref/net461/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/ref/netstandard1.3/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.4.0/ref/netstandard2.0/System.Security.AccessControl.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/lib/net46/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/lib/net461/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/lib/netstandard1.3/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/ref/net46/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/ref/net461/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/ref/netstandard1.3/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.4.0/ref/netstandard2.0/Microsoft.Win32.Registry.dll
+//+ref=packages/System.Text.Encodings.Web.4.4.0/lib/netstandard1.0/System.Text.Encodings.Web.dll
+//+ref=packages/System.Text.Encodings.Web.4.4.0/lib/netstandard2.0/System.Text.Encodings.Web.dll
+//+ref=packages/Microsoft.AspNetCore.Http.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll
+//+ref=packages/Microsoft.AspNetCore.Authentication.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+//+ref=packages/Microsoft.AspNetCore.Hosting.Abstractions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+//+ref=packages/Microsoft.AspNetCore.DataProtection.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.dll
+//+ref=packages/Microsoft.AspNetCore.Http.Extensions.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll
+//+ref=packages/Microsoft.AspNetCore.WebUtilities.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll
+//+ref=packages/Microsoft.AspNetCore.Http.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Http.dll
+//+ref=packages/Microsoft.AspNetCore.Authentication.Core.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll
+//+ref=packages/Microsoft.Extensions.WebEncoders.2.0.0/lib/netstandard2.0/Microsoft.Extensions.WebEncoders.dll
+//+ref=packages/Microsoft.AspNetCore.Authentication.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Authentication.dll
+//+ref=packages/Microsoft.AspNetCore.Authentication.Cookies.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Cookies.dll
+//+ref=packages/Microsoft.AspNetCore.Identity.2.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Identity.dll
+//+ref=packages/System.Threading.Tasks.Extensions.4.3.0/lib/netstandard1.0/System.Threading.Tasks.Extensions.dll
+//+ref=packages/System.Threading.Tasks.Extensions.4.3.0/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll
+//+ref=packages/AspNetCore.Identity.PostgreSQL.dll.2.0.1/lib/netcoreapp1.0/AspNetCore.Identity.PostgreSQL.dll
+//+ref=packages/AspNetCore.Identity.PostgreSQL.dll.2.0.1/lib/netcoreapp1.1/AspNetCore.Identity.PostgreSQL.dll
+//+ref=packages/AspNetCore.Identity.PostgreSQL.dll.2.0.1/lib/netcoreapp2.0/AspNetCore.Identity.PostgreSQL.dll
+//+ref=packages/AspNetCore.Identity.PostgreSQL.dll.2.0.1/lib/netstandard1.5/AspNetCore.Identity.PostgreSQL.dll
+//+ref=packages/AspNetCore.Identity.PostgreSQL.dll.2.0.1/lib/netstandard2.0/AspNetCore.Identity.PostgreSQL.dll
+//+ref=packages/Dapper.1.60.1/lib/net451/Dapper.dll
+//+ref=packages/Dapper.1.60.1/lib/netstandard1.3/Dapper.dll
+//+ref=packages/Dapper.1.60.1/lib/netstandard2.0/Dapper.dll
+//+ref=packages/Dapper.FluentMap.1.8.0/lib/net451/Dapper.FluentMap.dll
+//+ref=packages/Dapper.FluentMap.1.8.0/lib/netstandard1.3/Dapper.FluentMap.dll
+//+ref=packages/Dapper.FluentMap.1.8.0/lib/netstandard2.0/Dapper.FluentMap.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/lib/netcore50/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/lib/netstandard1.3/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/lib/netstandard2.0/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/ref/netcore50/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.CSharp.4.5.0/ref/netstandard2.0/Microsoft.CSharp.dll
+//+ref=packages/Microsoft.DotNet.PlatformAbstractions.2.0.0/lib/net45/Microsoft.DotNet.PlatformAbstractions.dll
+//+ref=packages/Microsoft.DotNet.PlatformAbstractions.2.0.0/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.Abstractions.2.1.1/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.2.1.1/lib/net461/Microsoft.Extensions.DependencyInjection.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.2.1.1/lib/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.dll
+//+ref=packages/Microsoft.Extensions.DependencyInjection.2.1.1/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+//+ref=packages/Microsoft.Extensions.Logging.Abstractions.2.1.0/lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/net20/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/net35/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/net40/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/net45/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/netstandard1.0/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/netstandard1.3/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/netstandard2.0/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.11.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll
+//+ref=packages/Microsoft.Extensions.DependencyModel.2.0.0/lib/net451/Microsoft.Extensions.DependencyModel.dll
+//+ref=packages/Microsoft.Extensions.DependencyModel.2.0.0/lib/netstandard1.3/Microsoft.Extensions.DependencyModel.dll
+//+ref=packages/Microsoft.Extensions.DependencyModel.2.0.0/lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll
+//+ref=packages/SqlKata.1.1.7/lib/net45/QueryBuilder.dll
+//+ref=packages/SqlKata.1.1.7/lib/netstandard1.0/QueryBuilder.dll
+//+ref=packages/SqlKata.Execution.1.1.7/lib/net451/SqlKata.Execution.dll
+//+ref=packages/SqlKata.Execution.1.1.7/lib/netstandard1.3/SqlKata.Execution.dll
+//+ref=packages/System.Collections.Immutable.1.4.0/lib/netstandard1.0/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.4.0/lib/netstandard2.0/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.4.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.NonGeneric.4.3.0/lib/net46/System.Collections.NonGeneric.dll
+//+ref=packages/System.Collections.NonGeneric.4.3.0/lib/netstandard1.3/System.Collections.NonGeneric.dll
+//+ref=packages/System.Collections.NonGeneric.4.3.0/ref/net46/System.Collections.NonGeneric.dll
+//+ref=packages/System.Collections.NonGeneric.4.3.0/ref/netstandard1.3/System.Collections.NonGeneric.dll
+//+ref=packages/System.ComponentModel.Primitives.4.3.0/lib/net45/System.ComponentModel.Primitives.dll
+//+ref=packages/System.ComponentModel.Primitives.4.3.0/lib/netstandard1.0/System.ComponentModel.Primitives.dll
+//+ref=packages/System.ComponentModel.Primitives.4.3.0/ref/net45/System.ComponentModel.Primitives.dll
+//+ref=packages/System.ComponentModel.Primitives.4.3.0/ref/netstandard1.0/System.ComponentModel.Primitives.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/lib/net45/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/lib/net462/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/lib/netstandard1.0/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/lib/netstandard1.5/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/ref/net45/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/ref/net462/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/ref/netstandard1.0/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.ComponentModel.TypeConverter.4.3.0/ref/netstandard1.5/System.ComponentModel.TypeConverter.dll
+//+ref=packages/System.Diagnostics.FileVersionInfo.4.3.0/lib/net46/System.Diagnostics.FileVersionInfo.dll
+//+ref=packages/System.Diagnostics.FileVersionInfo.4.3.0/ref/net46/System.Diagnostics.FileVersionInfo.dll
+//+ref=packages/System.Diagnostics.FileVersionInfo.4.3.0/ref/netstandard1.3/System.Diagnostics.FileVersionInfo.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/lib/net46/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/lib/net461/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/ref/net46/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/ref/net461/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/ref/netstandard1.3/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.Process.4.3.0/ref/netstandard1.4/System.Diagnostics.Process.dll
+//+ref=packages/System.Diagnostics.TraceSource.4.3.0/lib/net46/System.Diagnostics.TraceSource.dll
+//+ref=packages/System.Diagnostics.TraceSource.4.3.0/ref/net46/System.Diagnostics.TraceSource.dll
+//+ref=packages/System.Diagnostics.TraceSource.4.3.0/ref/netstandard1.3/System.Diagnostics.TraceSource.dll
+//+ref=packages/System.IO.4.3.0/lib/net462/System.IO.dll
+//+ref=packages/System.IO.4.3.0/ref/net462/System.IO.dll
+//+ref=packages/System.IO.4.3.0/ref/netcore50/System.IO.dll
+//+ref=packages/System.IO.4.3.0/ref/netstandard1.0/System.IO.dll
+//+ref=packages/System.IO.4.3.0/ref/netstandard1.3/System.IO.dll
+//+ref=packages/System.IO.4.3.0/ref/netstandard1.5/System.IO.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/lib/net463/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/lib/netcore50/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/lib/netstandard1.6/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/ref/net463/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/ref/netcore50/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/ref/netstandard1.0/System.Linq.Expressions.dll
+//+ref=packages/System.Linq.Expressions.4.3.0/ref/netstandard1.3/System.Linq.Expressions.dll
+//+ref=packages/MessagePack.Annotations.2.1.90/lib/netstandard2.0/MessagePack.Annotations.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll
+//+ref=packages/AsyncIO.0.1.17.0/lib/net35/AsyncIO.dll
+//+ref=packages/AsyncIO.0.1.17.0/lib/net40/AsyncIO.dll
+//+ref=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/analyzers/cs/Microsoft.VisualStudio.Threading.Analyzers.CodeFixes.dll
+//+ref=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/analyzers/cs/Microsoft.VisualStudio.Threading.Analyzers.dll
+//+src=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/build/AdditionalFiles/vs-threading.LegacyThreadSwitchingMembers.txt
+//+src=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/build/AdditionalFiles/vs-threading.MainThreadAssertingMethods.txt
+//+src=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/build/AdditionalFiles/vs-threading.MainThreadSwitchingMethods.txt
+//+src=packages/Microsoft.VisualStudio.Threading.Analyzers.16.6.13/build/AdditionalFiles/vs-threading.MembersRequiringMainThread.txt
+//+ref=packages/System.Buffers.4.5.0/lib/netstandard1.1/System.Buffers.dll
+//+ref=packages/System.Buffers.4.5.0/lib/netstandard2.0/System.Buffers.dll
+//+ref=packages/System.Buffers.4.5.0/ref/net45/System.Buffers.dll
+//+ref=packages/System.Buffers.4.5.0/ref/netstandard1.1/System.Buffers.dll
+//+ref=packages/System.Buffers.4.5.0/ref/netstandard2.0/System.Buffers.dll
+//+ref=packages/System.Net.WebSockets.4.3.0/lib/net46/System.Net.WebSockets.dll
+//+ref=packages/System.Net.WebSockets.4.3.0/lib/netstandard1.3/System.Net.WebSockets.dll
+//+ref=packages/System.Net.WebSockets.4.3.0/ref/net46/System.Net.WebSockets.dll
+//+ref=packages/System.Net.WebSockets.4.3.0/ref/netstandard1.3/System.Net.WebSockets.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll
+//+ref=packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll
+//+ref=packages/System.Runtime.4.3.0/lib/net462/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/net462/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/netcore50/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/netstandard1.0/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/netstandard1.2/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/netstandard1.3/System.Runtime.dll
+//+ref=packages/System.Runtime.4.3.0/ref/netstandard1.5/System.Runtime.dll
+//+ref=packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.dll
+//+ref=packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/lib/net46/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/lib/net461/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/lib/net463/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/net46/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/net461/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/net463/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/netstandard1.3/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/netstandard1.4/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.Algorithms.4.3.0/ref/netstandard1.6/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/lib/net46/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/lib/net461/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/ref/net46/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/ref/net461/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/ref/netstandard1.3/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Security.Cryptography.X509Certificates.4.3.0/ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll
+//+ref=packages/System.Net.Http.4.3.4/lib/net46/System.Net.Http.dll
+//+ref=packages/System.Net.Http.4.3.4/ref/net46/System.Net.Http.dll
+//+ref=packages/System.Net.Http.4.3.4/ref/netcore50/System.Net.Http.dll
+//+ref=packages/System.Net.Http.4.3.4/ref/netstandard1.1/System.Net.Http.dll
+//+ref=packages/System.Net.Http.4.3.4/ref/netstandard1.3/System.Net.Http.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/lib/net46/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/lib/net461/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/lib/netstandard1.3/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/lib/netstandard2.0/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/ref/net46/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/ref/net461/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/ref/netcoreapp3.0/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/ref/netstandard1.3/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.Principal.Windows.4.6.0/ref/netstandard2.0/System.Security.Principal.Windows.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/lib/net46/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/lib/net461/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/lib/netstandard1.3/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/lib/netstandard2.0/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/ref/net46/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/ref/net461/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/ref/netstandard1.3/System.Security.AccessControl.dll
+//+ref=packages/System.Security.AccessControl.4.6.0/ref/netstandard2.0/System.Security.AccessControl.dll
+//+ref=packages/System.Threading.Tasks.Dataflow.4.9.0/lib/netstandard1.0/System.Threading.Tasks.Dataflow.dll
+//+ref=packages/System.Threading.Tasks.Dataflow.4.9.0/lib/netstandard1.1/System.Threading.Tasks.Dataflow.dll
+//+ref=packages/System.Threading.Tasks.Dataflow.4.9.0/lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll
+//+ref=packages/System.Threading.Tasks.Dataflow.4.9.0/lib/portable-net45+win8+wpa81/System.Threading.Tasks.Dataflow.dll
+//+ref=packages/System.Threading.Tasks.Extensions.4.5.3/lib/netstandard1.0/System.Threading.Tasks.Extensions.dll
+//+ref=packages/System.Threading.Tasks.Extensions.4.5.3/lib/netstandard2.0/System.Threading.Tasks.Extensions.dll
+//+ref=packages/System.Threading.Tasks.Extensions.4.5.3/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll
+//+ref=packages/MessagePack.2.1.90/lib/netcoreapp2.1/MessagePack.dll
+//+ref=packages/MessagePack.2.1.90/lib/netstandard2.0/MessagePack.dll
+//+ref=packages/System.IO.Pipelines.4.7.0/lib/netcoreapp3.0/System.IO.Pipelines.dll
+//+ref=packages/System.IO.Pipelines.4.7.0/lib/netstandard1.3/System.IO.Pipelines.dll
+//+ref=packages/System.IO.Pipelines.4.7.0/lib/netstandard2.0/System.IO.Pipelines.dll
+//+ref=packages/System.IO.Pipelines.4.7.0/ref/netcoreapp2.0/System.IO.Pipelines.dll
+//+ref=packages/Microsoft.IdentityModel.Logging.6.5.1/lib/net45/Microsoft.IdentityModel.Logging.dll
+//+ref=packages/Microsoft.IdentityModel.Logging.6.5.1/lib/net461/Microsoft.IdentityModel.Logging.dll
+//+ref=packages/Microsoft.IdentityModel.Logging.6.5.1/lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll
+//+ref=packages/Microsoft.IdentityModel.Tokens.6.5.1/lib/net45/Microsoft.IdentityModel.Tokens.dll
+//+ref=packages/Microsoft.IdentityModel.Tokens.6.5.1/lib/net461/Microsoft.IdentityModel.Tokens.dll
+//+ref=packages/Microsoft.IdentityModel.Tokens.6.5.1/lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll
+//+ref=packages/Microsoft.IdentityModel.JsonWebTokens.6.5.1/lib/net45/Microsoft.IdentityModel.JsonWebTokens.dll
+//+ref=packages/Microsoft.IdentityModel.JsonWebTokens.6.5.1/lib/net461/Microsoft.IdentityModel.JsonWebTokens.dll
+//+ref=packages/Microsoft.IdentityModel.JsonWebTokens.6.5.1/lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll
+//+ref=packages/NetMQ.3.3.2.1/lib/net35/NetMQ.dll
+//+ref=packages/NetMQ.3.3.2.1/lib/net40/NetMQ.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/net20/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/net35/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/net40/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/net45/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/netcore45/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/portable-net40+sl4+wp7+win8/Newtonsoft.Json.dll
+//+ref=packages/Newtonsoft.Json.6.0.3/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll
+//+ref=packages/Microsoft.VisualStudio.Validation.15.5.31/lib/netstandard2.0/Microsoft.VisualStudio.Validation.dll
+//+ref=packages/Microsoft.VisualStudio.Validation.15.5.31/lib/netstandard2.1/Microsoft.VisualStudio.Validation.dll
+//+ref=packages/System.Collections.Immutable.1.5.0/lib/netstandard1.0/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.5.0/lib/netstandard1.3/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.5.0/lib/netstandard2.0/System.Collections.Immutable.dll
+//+ref=packages/System.Collections.Immutable.1.5.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/lib/netcore50/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/lib/netstandard1.1/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/lib/netstandard1.3/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/lib/netstandard2.0/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/ref/netstandard1.1/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.4.6.0/ref/netstandard2.0/System.Reflection.Emit.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/lib/netcore50/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/lib/netstandard1.0/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/lib/netstandard2.0/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/ref/netstandard1.0/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Reflection.Emit.Lightweight.4.6.0/ref/netstandard2.0/System.Reflection.Emit.Lightweight.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Runtime.CompilerServices.Unsafe.4.6.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+//+ref=packages/System.Security.Cryptography.Encoding.4.3.0/lib/net46/System.Security.Cryptography.Encoding.dll
+//+ref=packages/System.Security.Cryptography.Encoding.4.3.0/ref/net46/System.Security.Cryptography.Encoding.dll
+//+ref=packages/System.Security.Cryptography.Encoding.4.3.0/ref/netstandard1.3/System.Security.Cryptography.Encoding.dll
+//+ref=packages/System.Security.Cryptography.Primitives.4.3.0/lib/net46/System.Security.Cryptography.Primitives.dll
+//+ref=packages/System.Security.Cryptography.Primitives.4.3.0/lib/netstandard1.3/System.Security.Cryptography.Primitives.dll
+//+ref=packages/System.Security.Cryptography.Primitives.4.3.0/ref/net46/System.Security.Cryptography.Primitives.dll
+//+ref=packages/System.Security.Cryptography.Primitives.4.3.0/ref/netstandard1.3/System.Security.Cryptography.Primitives.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/lib/net46/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/lib/net461/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/lib/netstandard1.3/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/ref/net46/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/ref/net461/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/ref/net472/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/ref/netstandard1.3/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Win32.Registry.4.6.0/ref/netstandard2.0/Microsoft.Win32.Registry.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/lib/net461/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/ref/net461/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/ref/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.Bcl.AsyncInterfaces.1.0.0/ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+//+ref=packages/Microsoft.VisualStudio.Threading.16.6.13/lib/net472/Microsoft.VisualStudio.Threading.dll
+//+ref=packages/Microsoft.VisualStudio.Threading.16.6.13/lib/netcoreapp3.0/Microsoft.VisualStudio.Threading.dll
+//+ref=packages/Microsoft.VisualStudio.Threading.16.6.13/lib/netstandard2.0/Microsoft.VisualStudio.Threading.dll
+//+ref=packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/ref/net461/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/ref/net47/System.ValueTuple.dll
+//+ref=packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll
+//+ref=packages/Nerdbank.Streams.2.4.73/lib/netcoreapp2.1/Nerdbank.Streams.dll
+//+ref=packages/Nerdbank.Streams.2.4.73/lib/netstandard2.0/Nerdbank.Streams.dll
+//+ref=packages/StreamJsonRpc.2.4.48/lib/netcoreapp2.1/StreamJsonRpc.dll
+//+ref=packages/StreamJsonRpc.2.4.48/lib/netstandard2.0/StreamJsonRpc.dll
+//+ref=packages/System.Runtime.Serialization.Json.4.3.0/lib/netcore50/System.Runtime.Serialization.Json.dll
+//+ref=packages/System.Runtime.Serialization.Json.4.3.0/lib/netstandard1.3/System.Runtime.Serialization.Json.dll
+//+ref=packages/System.Runtime.Serialization.Json.4.3.0/ref/netcore50/System.Runtime.Serialization.Json.dll
+//+ref=packages/System.Runtime.Serialization.Json.4.3.0/ref/netstandard1.0/System.Runtime.Serialization.Json.dll
+//+ref=packages/Res.Client.0.0.17.0/lib/net45/Res.Client.dll
+//+ref=packages/Res.Client.0.0.17.0/lib/net45/Res.Protocol.dll
+//+ref=packages/Infura.ResClient.0.0.17.0/lib/net45/Infura.ResClient.dll
+//+ref=packages/Infura.ResClient.0.0.17.0/lib/net45/Infura.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.AppContext.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Collections.Concurrent.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Collections.NonGeneric.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Collections.Specialized.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Collections.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ComponentModel.Composition.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ComponentModel.EventBasedAsync.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ComponentModel.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ComponentModel.TypeConverter.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ComponentModel.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Console.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Core.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Data.Common.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Data.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.Contracts.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.Debug.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.FileVersionInfo.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.Process.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.StackTrace.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.TextWriterTraceListener.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.Tools.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.TraceSource.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Diagnostics.Tracing.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Drawing.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Drawing.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Dynamic.Runtime.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Globalization.Calendars.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Globalization.Extensions.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Globalization.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.Compression.FileSystem.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.Compression.ZipFile.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.Compression.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.FileSystem.DriveInfo.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.FileSystem.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.FileSystem.Watcher.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.FileSystem.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.IsolatedStorage.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.MemoryMappedFiles.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.Pipes.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.UnmanagedMemoryStream.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.IO.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Linq.Expressions.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Linq.Parallel.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Linq.Queryable.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Linq.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Http.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.NameResolution.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.NetworkInformation.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Ping.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Requests.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Security.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.Sockets.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.WebHeaderCollection.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.WebSockets.Client.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.WebSockets.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Net.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Numerics.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.ObjectModel.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Reflection.Extensions.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Reflection.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Reflection.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Resources.Reader.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Resources.ResourceManager.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Resources.Writer.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.CompilerServices.VisualC.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Extensions.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Handles.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.InteropServices.RuntimeInformation.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.InteropServices.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Numerics.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Serialization.Formatters.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Serialization.Json.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Serialization.Primitives.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Serialization.Xml.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.Serialization.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Runtime.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Security.Claims.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Security.Cryptography.Algorithms.dll
+//+ref=packages/NETStandard.Library.2.0.0-preview1-25301-01/build/netstandard2.0/ref/System.Security.Cryptography.Csp.dll
+//+src=models/HashAttributes.cs
+//+src=models/HashBlock.cs
+//+src=models/HashHMACSHA512.cs
+//+src=models/HashSetGroup.cs
