@@ -1,101 +1,141 @@
+
+using System;
+using Microsoft.DotNet.ProjectModel;
+using Project.Models;
+using System.Linq;
+using Microsoft.CSharp;
 using System;
 using System.IO;
-using Xamarin.Forms;
-using System.Net;
-using System.Web;
+using System.Linq;
+using Microsoft.NetCore;
 using System.Collections.Generic;
-using System.Console;
-using System.Net.Http;
-using System.Net.WebSockets;
-using System.Data;
-using System.IO.FileSystem;
-using System.Security.Cryptography.Pkcs;
-using System.Security.Cryptography.X509Certificates;
-using System.Security.Cryptography.OpenSsl;
-using System.Security.AccessControl;
-using System.IO.Sockets;
 using System.Runtime.InteropServices;
-using System.Numerics.Vector;
-using System.Drawing;
-using System.Data;
-using System.Memory;
 using System.Threading.Tasks;
-using System.ObjectModel;
-using Microsoft.Orleans.Core;
-using Fable.Browser;
-using WaveEngine.WebGL;
+using System.IO.Sockets;
+using System.Web;
+using System.Net;
+using System.Security.Cryptography;
+using System.Console;
+using System.Drawing;
+using System.Memory;
+using System.CSharp;
+using System.Numerics.Vectors;
+using System.Security.AccessControl;
+using Microsoft.VisualStudio.Shell.Interop;
 using Bridge.Core;
 using Bridge.Pixi;
 using Pixi.js;
+using PixivSharp;
+using PixivCS;
+using Fable.Pixi;
+using System.Collections.Immutable;
+using System.Reflections.Metadata;
+using System.Runtime.Core;
+using Microsoft.Orleans.Core;
+using Fable.Browser;
+using System.Text.Encodings.Web;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Win32.Registry;
 using Fable.Browser.Svg;
+using System.Net.Http;
+using System.Web.Http;
+using System.Threading.Channels;
+using System.IO.FileSystem;
+using System.IO.Pipelines;
+using System.AppContext;
+using System.Net.Sockets;
+using System.Resources.ResourceManager;
+using System.ObjectModel;
+using Durandal.AI;
+using Durandal.AI.Ontology;
+using ApiAi;
+using WaveEngine.WebGL;
+using WaveEngine.Common;
+using WaveEngine.Mathematics;
+using System.Security.Cryptography.X509Certificates;
+using WebAssembly.Binder;
+using NETStandard.Library;
 using Bridge.WebGL;
 using Bridge.Html5;
-using WebAssembly.Binder;
+using BabylonJS;
+using holojs;
 using WebGlDotNet;
+using System.Data.Common;
 using Entity.Framework.SqlServerCompact;
-using ChainPay;
-using Google.Protobuf;
-using Antlr;
 using AForge;
-using Mastercard-Core;
-using BlockchainAPI;
+using DeepAI.Client;
 using System.Net.Http.Server;
-using RestSharp;
-using RestClient.Net;
-using eos-sharp;
-using Autofac.WebApi;
-using WaveSharper.WebGL;
-using Cake.Http;
-using Credits.Blockchain;
-using NStratis;
+using Microsoft.NETCore.Platforms;
+using Microsoft.NETCore.Runtime.CoreCLR;
+using BlockchainAPI;
+using Mastercard-Core;
+using System.Threading.Tasks.Parallel;
+using System.Threading.Tasks.Dataflow;
+using System.Runtime.Loader;
 using System.Xml;
+using System.Diagnostics.Tracing;
+using System.Diagnostics.StackTrace;
+using WebSharper.WebGL;
+using System.IO.MemoryMappedFiles;
+using System.Xml.ReaderWriter;
+using blockchain;
+using Credits.Blockchain;
+using Mastercard-BlockchainB2bxb;
+using System.ValueTuple;
+using RestSharp;
+using Blockchain_csharp;
+using dotnetstandard_bip32;
+using dotnetstandard_bip39;
+using LaunchDarkly.EventSource;
 using Common.Logging;
+using NSec.Cryptography;
+using stellar-dotnet-sdk;
+using stellar-dotnet-sdk-xdr;
+using Core.Framework.Blockchain;
+using Info.Blockchain.API;
+using Dommunity.Blockchain;
+using Falcon.Numerics;
+using AsyncFriendlyStackTrace;
+using JetBrains.Annotations;
 using Cryptocurrency;
 using CryptoCurrency.Net;
 using Cryptocurrency.Blockchain;
-using System.Data.SqlClient;
-using System.Dynamic.Runtime;
-using System.Globalization;
-using System.Net.Security;
-using System.Security.Priviledges;
-using Microsoft.NETCore.Runtime.CoreCLR;
-using Microsoft.NETCore.Platforms;
-using Microsoft.CSharp;
-using Microsoft.NetCore;
-using holojs;
-using DuoCode;
-using BabylonJS;
-using WaveEngine.Common;
-using WaveEngine.Mathetics;
-using stellar-dotnet-sdk;
-using stellar-dotnet-sdk-xdr;
-using blockchain;
-using Core.Framework.Blockchain;
-using NStratis.API.Server;
+using Microsoft.SqlServer.Management.SqlParser;
 using Json.Net;
-using System.Xml.ReaderWriter;
-using Durandal.AI;
-using System.IO.Pipelines;
+using System.Security.Cryptography.OpenSsl;
+using System.Security.Permissions;
+using System.Net.Security;
+using System.Globalization;
+using System.Dynamic.Runtime;
+using System.Data.SqlClient;
+using NStratis;
+using Antlr;
+using NStratis.API.Server;
+using Cake.Http;
+using MAVN.Service.ProvideBlockchainFacade.Contract;
+using ChainPay;
+using Google.Protobuf;
+using NLog;
 using Cryptography.ECDSA.Secp256k1;
-using NetStandard.Library;
-using ApiAi;
-using Mastercard-BlockchainB2bxb;
-using System.AppContext;
-using System.Runtime.Loader;
-using System.ValueTuple;
-using System.Net.Sockets;
-using DeepAI.Client;
-using LaunchDarkly.EventSource;
+using System.Security.Cryptography.Pkcs;
+using eos-sharp;
+using RestClient.Net;
+using Microsoft.DiaSymReader.Native;
+using Autofac.WebApi;
+using Microsoft.AspNet.SignalR.Client;
+
+
 
 
 
 namespace GhostSec
 {
-	public partial class GhostSec_Bridge : GhostSec_Shell
-  {
-	
-		// Class Object Initializor and Method Struct
-	public System.Runtime.Loader() autorun() = new public System.Runtime.Loader();
+    class GhostSec_Shell
+    {
+        static void Main(string[] args)
+        {
+public System.Runtime.Loader() autorun() = new public System.Runtime.Loader();
 		public autorun() : System.Runtime.Loader(){
 		
 		this.InitializeComponent();
@@ -203,6 +243,28 @@ public IActionResult runtime(int id)
 		this.loadAsync(*);
 		this.InitializeComponent(*);
 		
+          
+            var context = new ghostContext();
+            var hash = context.hash.First();
+            var index = context.index.First();
+            var blockpair = context.blockpair.First();
+
+            var newHash = new Hash()
+            {
+                hash = hash,
+                index = index,
+                HashAttributes = { new HashAttributes() { blockpair = blockpair } },
+                HashTimestamp = DateTime.Now
+            };
+
+            context.hash.Add(newHash);
+            context.SaveChanges();
+
+            Console.WriteLine($"{newHash.OrderId} {HashAttributes.CreatedDate}");
+            Console.WriteLine($"{HashAttributes.blockpair}");
+            Console.ReadKey();
+        }
+    
 		public GhostSec_Bridge(this.set(), this.get()) : Gh∆stSec_Bridge(){
 			
 			// Internal App Specific Bridge Combininational API Set and Get Access Model

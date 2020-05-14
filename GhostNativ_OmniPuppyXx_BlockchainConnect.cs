@@ -1,3 +1,8 @@
+using System;
+using Microsoft.DotNet.ProjectModel;
+using Project.Models;
+
+using System.Linq;
 using Microsoft.CSharp;
 using System;
 using System.IO;
@@ -123,14 +128,14 @@ using Microsoft.AspNet.SignalR.Client;
 
 
 
-namespace Gh∆stSec
-{
 
-    public class GhostSec_Shell 
+namespace GhostSec
+{
+    class GhostSec_Shell
     {
-	
-		// Class Object Initializor and Method Struct
-	public System.Runtime.Loader() autorun() = new public System.Runtime.Loader();
+        static void Main(string[] args)
+        {
+public System.Runtime.Loader() autorun() = new public System.Runtime.Loader();
 		public autorun() : System.Runtime.Loader(){
 		
 		this.InitializeComponent();
@@ -237,6 +242,30 @@ public IActionResult runtime(int id)
 
 		this.loadAsync(*);
 		this.InitializeComponent(*);
+		
+          
+            var context = new ghostContext();
+            var hash = context.hash.First();
+            var index = context.index.First();
+            var blockpair = context.blockpair.First();
+
+            var newHash = new Hash()
+            {
+                hash = hash,
+                index = index,
+                HashAttributes = { new HashAttributes() { blockpair = blockpair } },
+                HashTimestamp = DateTime.Now
+            };
+
+            context.hash.Add(newHash);
+            context.SaveChanges();
+
+            Console.WriteLine($"{newHash.OrderId} {HashAttributes.CreatedDate}");
+            Console.WriteLine($"{HashAttributes.blockpair}");
+            Console.ReadKey();
+        }
+    
+
 		
 		public GhostSec_Bridge(this.set(), this.get()) : Gh∆stSec_Bridge(){
 			
