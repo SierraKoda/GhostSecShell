@@ -1,0 +1,14 @@
+﻿{
+    "message": {
+
+        "data": {
+
+            "foo":  "bar",
+            "baz":  "biff"
+
+                },
+
+             "token":  "m_FCMToken"
+
+              }
+}

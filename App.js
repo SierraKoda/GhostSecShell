@@ -1037,5 +1037,22 @@ const firebaseConfig = {
     measurementId: "G-VD3TETLDZ3"
 };
 
+var m_FCMToken;
+var msg;
+
+void OnCreate(m_FCMToken => {
+    m_FCMToken = FirebaseInstanceId.getInstance().getToken();
+});
+
+void onload(m_FCMToken => {
+
+    Log.d(TAG, { $msg }, "277682964671" + $m_FCMToken);
+
+});
+
+
+
+
+
 
 export default App;
