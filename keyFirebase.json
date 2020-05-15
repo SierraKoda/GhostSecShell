@@ -1,0 +1,56 @@
+{
+
+    "keyFirebase": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+    ],
+    "boolean": true,
+    "keySec": "keySec",
+    "null": null,
+    "nextKey": "nextKey",
+    "HashAttributes": {
+        "a": "keyId",
+        "c": "key"
+    },
+    "Timestamp": "Timestamp",
+    "Percentage": "Percentage",
+    "blockId": "blockId",
+    "Hash1": "Hash1",
+    "Hash2": "Hash2",
+    "FirstItem": "FirstItem",
+    "LastItem": "LastItem",
+    "FirebaseAPIKey": "AIzaSyCgpQNS7rmyQMkHjN6buNlMvVxlpV2RSJg",
+    "FirebaseProjectID": "omnipuppyxx",
+    "ProjectName": "OmniPuppyXx",
+    "APKName": "com.omnipuppy.ethercomm",
+    "APKID": "1:277682964671:web:cb53f67e3d1f63f37c1e0a",
+    "OAuthKey": "1a5c3396fb38257aaa4f92b782ba067b94cdf332",
+    "OAuthSecret": "77bf5e7e453ffae3336a97006ea869d90195ae48",
+    "InfuraKey": "wss://mainnet.infura.io/ws/v3/6c3cc2ec874b4e8e977bdcb0204f9220",
+    "String": "96aa3613c2154457affa899da89a3650"
+
+}
+      
